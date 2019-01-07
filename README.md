@@ -28,8 +28,8 @@ create_table_query = " CREATE TABLE IF NOT EXISTS " + TABLE_NAME + " ( " + EMP_I
 connection.execute(create_table_query)
 
 ####Screeshots
-## 1.Homepage
+#### 1.Homepage
 ![alt home](https://github.com/TomarAnuj/Student-Management-System/blob/master/Home.png)
 
-## 2.Display Records
+#### 2.Display Records
 ![alt Display](https://github.com/TomarAnuj/Student-Management-System/blob/master/displayMessage.png)
