@@ -26,6 +26,7 @@ create_table_query = " CREATE TABLE IF NOT EXISTS " + TABLE_NAME + " ( " + EMP_I
                     EMP_ADDRESS + " TEXT, " + EMP_phone + " INTEGER );"
 
 connection.execute(create_table_query)
+```
 
 ####Screeshots
 #### 1.Homepage
